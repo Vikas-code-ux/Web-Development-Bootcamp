@@ -13,7 +13,7 @@ const SignUp=()=>{
 
     useEffect(()=>{
         const auth=localStorage.getItem('user');
-        if(auth){ navigate('/')}
+        if(auth){ navigate('/login')}
     })
     const collectData=async()=>{
         console.warn(name,email,password);
@@ -25,9 +25,9 @@ const SignUp=()=>{
             });
             result=await result.json();
             console.warn(result);
-            localStorage.setItem("user",JSON.stringify(result));
+            // localStorage.setItem("user",JSON.stringify(result));
             if(result){
-                navigate('/');
+                navigate('/login');
             }
         }
     }
