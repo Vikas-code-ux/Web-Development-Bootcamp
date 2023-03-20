@@ -12,19 +12,19 @@
 <details>
     <summary>Click to view design files</summary>
     - Login Page
-    [Login Page](/assets/login.png)
+    ![Login Page](/assets/login.png)
     
     - Register Page
-    [Register Page](/assets/register.png)
+    ![Register Page](/assets/register.png)
     
     - Home Page
-    [Home Page](/assets/products.png)
+    ![Home Page](/assets/products.png)
     
     - Add Product Page
-    [Add Product Page](/assets/add products.png)
+    ![Add Product Page](/assets/add products.png)
     
     - Profile Page
-    [Profile Page](/assets/profile.png)
+    ![Profile Page](/assets/profile.png)
     
 </details>
     
