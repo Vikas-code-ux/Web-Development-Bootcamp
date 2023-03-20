@@ -11,8 +11,7 @@
 
 <details>
     <summary>Click to view design files</summary>
-    - Login Page
-    ![login](/assets/login.png)
+    - [login](/assets/login.png)
     
     - Register Page
     ![Register Page](/assets/register.png)
