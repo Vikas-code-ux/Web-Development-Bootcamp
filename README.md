@@ -7,23 +7,20 @@
 </div>
 <br/>
 
-### Design Files
+### Design Files (Screenshots)
 
-<details>
-    <summary>Click to view design files</summary>
-    - [login](/assets/login.png)
-    
-    - Register Page
-    ![Register Page](/assets/register.png)
-    
-    - Home Page
-    ![Home Page](/assets/products.png)
-    
-    - Add Product Page
-    ![Add Product Page](/assets/add products.png)
-    
-    - Profile Page
-    ![Profile Page](/assets/profile.png)
-    
-</details>
-    
+## Login Page
+![Login Page](/assets/login.png)    
+
+## SignUp Page
+![Register Page](/assets/register.png)
+
+## Home Page
+![Home Page](/assets/products.png)
+
+## Add Product Page
+![Add Product](/assets/add products.png)
+
+## Profile Page
+![Profile Page](/assets/profile.png)
+
