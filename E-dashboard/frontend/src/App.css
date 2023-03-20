@@ -1,0 +1,185 @@
+.nav_ul li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav_ul li a{
+  color: #fff;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav_ul{
+  background-color: blue;
+  margin: 0;
+  padding: 5px;
+}
+.nav_ul_right{
+  text-align: right;
+}
+.nav_li_right{
+  text-align: right;
+}
+.footr{
+  position: absolute;
+  bottom: 0;
+  background-color: blue;
+  width: 100%;
+  text-align: center;
+}
+.sign_up{
+  margin-top: 30px;
+  margin-left: 30%;
+}
+.login{
+  margin-left: 30%;
+  margin-top: 100px;
+}
+.inputbox{
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid blue;
+}
+.input_{
+  display: flex;
+  margin: -25px;
+  margin-right: 1px;
+}
+.error_txt{
+  margin-top: 28px;
+  color: red;
+  margin-left: -15px;
+}
+.signup_btn{
+  background-color: blue;
+  width: 120px;
+  margin-top: 5px;
+  margin-left: 25px;
+  padding: 5px;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 15px;
+}
+.logo{
+  height: 50px;
+  float: left;
+  width: 50px;
+  background-color: darkblue;
+}
+.delicon{
+  height: 15px;
+  width: 15px;
+}
+.delbutton{
+  border: none;
+  background: lightskyblue;
+  cursor: pointer;
+  margin-right: 30px;
+}
+.editbtn{
+  border: none;
+  background: greenyellow;
+  cursor: pointer;
+  margin-right: 30px;
+}
+.updatebtn{
+  background: lightskyblue;
+}
+.prod_list{
+  text-align: center;
+  margin-top: 20px;
+}
+.prod_list ul li{
+  display: inline-block;
+  border: 1px solid blue;
+  width: 150px;
+  padding: 5px;
+}
+.prod_list ul{
+  margin: 0px;
+}
+.prod_head li{
+  background-color: rgb(46, 151, 155);
+}
+.products_ li{
+  background-color: lightskyblue;
+}
+.search_prod_box{
+  width: 400px;
+  margin: 20px;
+  margin-top: -10px;
+  height: 40px;
+  border: 1px solid blue;
+  padding-left: 20px;
+}
+.profile_header{
+  text-align: center;
+}
+.profile_body{
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+.about-me{
+  width: 35%;
+  height: 350px;
+  border-radius: 30px;
+  border: 2px solid darkblue;
+  background-color: lightblue;
+}
+.about-me:hover{
+  background-color: whitesmoke;
+}
+.editaboutme:hover{
+  background-color: whitesmoke;
+}
+.details:hover{
+  background-color: whitesmoke;  
+}
+.editaboutme{
+  width: 90%;
+  height: 250px;
+  background-color: lightblue;
+  border: none;
+  margin-left: 15px;
+  text-align: left;
+  max-width: 90%;
+  max-height: 80%;
+}
+.details{
+  width: 35%;
+  height: 350px;
+  border-radius: 30px;
+  border: 2px solid darkblue;
+  background-color: lightblue;
+}
+.detail_header{
+  text-align: center;
+}
+.detail-item ul{
+  margin: 5px;
+  margin-left: -35px;
+  text-align: left;
+}
+.dp{
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+}
+h3{
+  font-family: 'Comic Sans MS';
+}
+.photodiv{
+  width: 35%;
+  text-align: center;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 5%;
+}
+.details ul li{
+  list-style-type: none;
+}
